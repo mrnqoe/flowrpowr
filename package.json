@@ -1,0 +1,22 @@
+{
+  "name": "flowrpowr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrnqoe/flowrpowr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrnqoe/flowrpowr/issues"
+  },
+  "homepage": "https://github.com/mrnqoe/flowrpowr#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
